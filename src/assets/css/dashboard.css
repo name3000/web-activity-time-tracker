@@ -279,6 +279,7 @@ label {
   height: 40px;
   display: table-cell;
   cursor: pointer;
+  border-bottom: 2px solid transparent;
 }
 .settings-tab label[name='tabName']:hover {
   background-color: #cccccc !important;
